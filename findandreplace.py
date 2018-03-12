@@ -44,4 +44,4 @@ print(txt)
 
 
 MT_CHL.close()
-# MT_CHL_new.close()
+MT_CHL_fasta.close()
